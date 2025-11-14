@@ -27,6 +27,7 @@ let state; //undefined
 // null is a object in js
 
 console.log(typeof name);
+console.log(typeof null);
 console.log(typeof age);
 console.log(typeof isLoggedIn);
 console.log(typeof state);  
